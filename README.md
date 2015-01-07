@@ -1,0 +1,1 @@
+This two files will show how to create an easy inheritence using Object.create(0 vs Child.prototype = new Parent();
